@@ -1,10 +1,9 @@
 import org.junit.Assert.assertEquals
 import org.junit.Test
 
-// return list of strings of digits from 0 to n, where divisible by 3 are 'Fizz', divisible by 5 are 'Buzz' and divisible by the both are 'FizzBuzz'
 class FizzBuzzFor3And5 {
     fun parse(n: Int): List<String> {
-        val list = mutableListOf<String>()
+        var list = mutableListOf<String>()
         (1..n).forEach {
             when {
                 it % 3 == 0 && it % 5 == 0 -> list.add("FizzBuzz")
