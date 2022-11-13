@@ -1,7 +1,7 @@
 import org.junit.Assert.assertEquals
 import org.junit.Test
 
-// get list of all odd numbers
+// get list of all odd numbers from given list
 class GetOdds {
     fun parse(li: List<Int>): List<Int>{
         val list = mutableListOf<Int>()
