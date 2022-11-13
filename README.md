@@ -21,7 +21,8 @@ Some handy links:
 * [Public Slack channel](https://slack.kotlinlang.org/)
 * [TeamCity CI build](https://teamcity.jetbrains.com/project.html?tab=projectOverview&projectId=Kotlin)
 
-
+# License
 ```
-Frre to use 2022 Bijukumar Narayanan
+GNU General Public License v3.0
+2022 Bijukumar Narayanan
 ```
