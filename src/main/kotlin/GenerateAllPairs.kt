@@ -1,0 +1,7 @@
+class GenerateAllPairs {
+
+}
+
+class GenerateAllPairsTest {
+
+}
