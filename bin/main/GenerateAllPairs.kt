@@ -1,7 +1,0 @@
-class GenerateAllPairs {
-
-}
-
-class GenerateAllPairsTest {
-
-}
